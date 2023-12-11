@@ -26,7 +26,7 @@ Welcome to Anime Wisdom Vault, your ultimate destination for an extensive collec
 
 ### 1.2 Live Demo
 
-Explore the functionalities at [www.animewisdomvault.streamlit.app](www.animewisdomvault.streamlit.app) and share your valuable feedback.
+Explore the functionalities at [the Project here](https://animewisdomvault.streamlit.app/)) and share your valuable feedback.
 
 ## 2. Getting Started
 
