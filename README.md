@@ -26,7 +26,7 @@ Welcome to Anime Wisdom Vault, your ultimate destination for an extensive collec
 
 ### 1.2 Live Demo
 
-Explore the functionalities at [the Project here](https://animewisdomvault.streamlit.app/)) and share your valuable feedback.
+Explore the functionalities at [the Project here](https://animewisdomvault.streamlit.app/){:target="_blank"} and share your valuable feedback.
 
 ## 2. Getting Started
 
@@ -57,7 +57,7 @@ The current version offers a minimal level of interactivity, with ongoing enhanc
 
 ## 4 Acknowledgement
 
-This project draws inspiration from the renowned website [Less Real](https://less-real.com), now archived using the dataset created in this repository: [Less-Real-Data](https://github.com/Decode84/Less-Real-Data). We are currently exploring sources for up-to-date quotes, which will be included in acknowledgments in the near future.
+This project draws inspiration from the renowned website [Less Real](https://less-real.com){:target="_blank"}, now archived using the dataset created in this repository: [Less-Real-Data](https://github.com/Decode84/Less-Real-Data){:target="_blank"}. We are currently exploring sources for up-to-date quotes, which will be included in acknowledgments in the near future.
 
 
 ## Portfolio 
